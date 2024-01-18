@@ -1,0 +1,11 @@
+- signup YES
+- login YES
+- get prediction for AAPL ? YES
+- favorite ? YES
+- logout ? YES
+- login to another ? YES
+- get pred for META ? YES
+- logout YES
+- login to admin YES, enter not working, click button
+- display models ? YES
+- train market trend ? YES

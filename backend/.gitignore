@@ -1,0 +1,25 @@
+# .gitignore in the backend directory
+
+# Python-specific
+*.pyc
+__pycache__/
+
+# Django-specific
+*.pyo
+*.pyc
+*.pyd
+.env
+
+# macOS-specific
+.DS_Store
+
+inputted_data.csv
+new_unclean.csv
+new_clean.csv
+heatmap*.png
+trend_explanation.html
+sentiment_explanation.html
+
+# Other
+*.log
+kaggle.json
